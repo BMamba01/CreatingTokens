@@ -1,3 +1,3 @@
 # CreatingTokens
-WE are creating our own tokens which can be listed in blockchain.
-Here the language used is solidity which is an ether based language used for deploying smartcontacts.
+There are n no. of tokens listed on blockchain nowadays but do you know how they are created?
+In this project we will learn how to create a token and make transactions in a simple way.
